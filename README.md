@@ -1,4 +1,4 @@
-# opencv-face-eye-detection
+# OpenCV Face Eye Detection
 This project uses OpenCV in Python to detect faces, recognize users using the LBPH Face Recognizer, and monitor eye states (open/closed) in real time.
 If the eyes remain closed for a continuous duration (e.g. 10 seconds), the system displays a visual alert.
 
