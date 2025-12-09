@@ -17,3 +17,9 @@ Each detected face is recognized using a trained LBPH model
 Eye regions are extracted and checked for open/closed state
 Eye closure duration is observed
 System displays alert if eyes are closed too long (e.g. 10 seconds)
+
+# Customization
+Eye closure threshold
+Alert text
+Face recognition labels
+Display configurations
