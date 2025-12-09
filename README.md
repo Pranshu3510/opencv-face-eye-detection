@@ -29,3 +29,7 @@ Ensure good lighting.
 cascades work better when facing camera directly.
 Use good webcam with more FPS for better accuracy.
 Upload more Photos of a face for more accuracy.
+
+# Installation
+git clone https://github.com/Pranshu3510/opencv-face-eye-detection.git
+cd opencv-face-eye-detection
