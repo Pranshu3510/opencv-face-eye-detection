@@ -33,3 +33,4 @@ Upload more Photos of a face for more accuracy.
 # Installation
 git clone https://github.com/Pranshu3510/opencv-face-eye-detection.git
 cd opencv-face-eye-detection
+pip install -r requirements.txt
